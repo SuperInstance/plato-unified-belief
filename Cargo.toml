@@ -1,6 +1,6 @@
 [package]
 license = "MIT"
 name = "plato-unified-belief"
-version = "0.1.0"
+version = "0.2.0"
 edition = "2021"
 description = "Unified belief system — confidence, trust, and tile weight as three dimensions of one underlying score"
